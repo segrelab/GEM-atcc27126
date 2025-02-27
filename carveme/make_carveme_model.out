@@ -1,0 +1,58 @@
+In maincall:
+verbose: True
+debug: True
+Loading universe model...
+Loading media library...
+Traceback (most recent call last):
+  File "/projectnb/cometsfba/hscott/carveme/carveme/cli/carve.py", line 173, in maincall
+    media_db = load_media_db(mediadb)
+  File "/projectnb/cometsfba/hscott/carveme/carveme/reconstruction/utils.py", line 62, in load_media_db
+    data = pd.read_csv(filename, sep=sep)
+  File "/projectnb/cometsfba/hscott/envs/carveme-dev/lib/python3.6/site-packages/pandas/io/parsers.py", line 688, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/projectnb/cometsfba/hscott/envs/carveme-dev/lib/python3.6/site-packages/pandas/io/parsers.py", line 454, in _read
+    parser = TextFileReader(fp_or_buf, **kwds)
+  File "/projectnb/cometsfba/hscott/envs/carveme-dev/lib/python3.6/site-packages/pandas/io/parsers.py", line 948, in __init__
+    self._make_engine(self.engine)
+  File "/projectnb/cometsfba/hscott/envs/carveme-dev/lib/python3.6/site-packages/pandas/io/parsers.py", line 1180, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/projectnb/cometsfba/hscott/envs/carveme-dev/lib/python3.6/site-packages/pandas/io/parsers.py", line 2010, in __init__
+    self._reader = parsers.TextReader(src, **kwds)
+  File "pandas/_libs/parsers.pyx", line 382, in pandas._libs.parsers.TextReader.__cinit__
+  File "pandas/_libs/parsers.pyx", line 674, in pandas._libs.parsers.TextReader._setup_parser_source
+FileNotFoundError: [Errno 2] No such file or directory: 'projectnb/cometsfba/hscott/GEM-repos/GEM-mit1002/test/test_files/media/media_database.tsv'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/projectnb/cometsfba/hscott/envs/carveme-dev/bin/carve", line 33, in <module>
+    sys.exit(load_entry_point('carveme', 'console_scripts', 'carve')())
+  File "/projectnb/cometsfba/hscott/carveme/carveme/cli/carve.py", line 385, in main
+    ref_score=args.reference_score
+  File "/projectnb/cometsfba/hscott/carveme/carveme/cli/carve.py", line 175, in maincall
+    raise IOError('Failed to load media library:' + mediadb)
+OSError: Failed to load media library:projectnb/cometsfba/hscott/GEM-repos/GEM-mit1002/test/test_files/media/media_database.tsv
+In maincall:
+verbose: True
+debug: True
+Loading universe model...
+Loading media library...
+Scoring reactions...
+Reconstructing a single model
+In carve_model:
+debug_output: carveme_model
+Gap filling for mbm_glc__D, l1_glc__D, mbm_ac, l1_ac...
+Added 73 reactions and 39 metabolites
+Done.
+In maincall:
+verbose: True
+debug: True
+Loading universe model...
+Loading media library...
+Scoring reactions...
+Reconstructing a single model
+In carve_model:
+debug_output: carveme_model
+Gap filling for mbm_glc__D, l1_glc__D, mbm_ac, l1_ac...
+Added 118 reactions and 74 metabolites
+Done.
