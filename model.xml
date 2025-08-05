@@ -37895,10 +37895,7 @@
           <speciesReference species="M_cpd01710_c0" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:and>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS04055"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS04050"/>
-          </fbc:and>
+          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS04050"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn03062_c0" sboTerm="SBO:0000176" id="R_rxn03062_c0" name="3-Isopropylmalate:NAD+ oxidoreductase [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -42884,10 +42881,7 @@
           <speciesReference species="M_cpd01710_c0" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:or>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS04050"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS04055"/>
-          </fbc:or>
+          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS04050"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn01370_c0" sboTerm="SBO:0000176" id="R_rxn01370_c0" name="dGTP:uridine 5&apos;-phosphotransferase [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -45019,10 +45013,7 @@
           <speciesReference species="M_cpd00581_c0" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:and>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS19430"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS03805"/>
-          </fbc:and>
+          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS03805"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn00770_c0" sboTerm="SBO:0000176" id="R_rxn00770_c0" name="ATP:D-ribose-5-phosphate diphosphotransferase [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -68935,19 +68926,6 @@
         </annotation>
       </fbc:geneProduct>
       <fbc:geneProduct metaid="meta_G_MASE_RS04055" sboTerm="SBO:0000243" fbc:id="G_MASE_RS04055" fbc:name="MASE_RS04055" fbc:label="G_MASE_RS04055"/>
-      <fbc:geneProduct metaid="meta_G_MASE_RS04050" sboTerm="SBO:0000243" fbc:id="G_MASE_RS04050" fbc:name="MASE_RS04050" fbc:label="G_MASE_RS04050">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_G_MASE_RS04050">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/refseq/WP_014948483.1"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </fbc:geneProduct>
       <fbc:geneProduct metaid="meta_G_MASE_RS04060" sboTerm="SBO:0000243" fbc:id="G_MASE_RS04060" fbc:name="MASE_RS04060" fbc:label="G_MASE_RS04060">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -70703,7 +70681,6 @@
           </rdf:RDF>
         </annotation>
       </fbc:geneProduct>
-      <fbc:geneProduct metaid="meta_G_MASE_RS19430" sboTerm="SBO:0000243" fbc:id="G_MASE_RS19430" fbc:name="MASE_RS19430" fbc:label="G_MASE_RS19430"/>
       <fbc:geneProduct metaid="meta_G_MASE_RS03805" sboTerm="SBO:0000243" fbc:id="G_MASE_RS03805" fbc:name="MASE_RS03805" fbc:label="G_MASE_RS03805">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
