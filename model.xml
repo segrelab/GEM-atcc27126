@@ -23715,7 +23715,7 @@
             <rdf:Description rdf:about="#meta_R_rxn01199_c0">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn01199_c0"/>
+                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn01199"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/XYLK"/>
                   <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/XKS1"/>
                   <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R01639"/>
