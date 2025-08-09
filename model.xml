@@ -28379,6 +28379,7 @@
               <fbc:geneProductRef fbc:geneProduct="G_MASE_RS03610"/>
               <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02025"/>
             </fbc:and>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS18985"/>
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
@@ -36718,6 +36719,7 @@
               <fbc:geneProductRef fbc:geneProduct="G_MASE_RS03610"/>
               <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02025"/>
             </fbc:and>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS18985"/>
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
@@ -51497,7 +51499,10 @@
           <speciesReference species="M_cpd00067_c0" stoichiometry="2" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS11390"/>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS11390"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS15505"/>
+          </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn09449_c0" sboTerm="SBO:0000176" id="R_rxn09449_c0" name="acyl-coenzyme A ligase [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -56980,6 +56985,7 @@
               <fbc:geneProductRef fbc:geneProduct="G_MASE_RS17755"/>
               <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02440"/>
             </fbc:and>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS15505"/>
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
