@@ -64607,6 +64607,9 @@
           <speciesReference species="M_cpd10515_c0" stoichiometry="2" constant="true"/>
           <speciesReference species="M_cpd11621_c0" stoichiometry="1" constant="true"/>
         </listOfProducts>
+        <fbc:geneProductAssociation>
+          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS05555"/>
+        </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn01213_c0" sboTerm="SBO:0000176" id="R_rxn01213_c0" name="Geranyl diphosphate synthase" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <annotation>
@@ -64640,6 +64643,9 @@
           <speciesReference species="M_cpd00067_c0" stoichiometry="1" constant="true"/>
           <speciesReference species="M_cpd00283_c0" stoichiometry="1" constant="true"/>
         </listOfProducts>
+        <fbc:geneProductAssociation>
+          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS12360"/>
+        </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn03087_c0" sboTerm="SBO:0000176" id="R_rxn03087_c0" name="N-Succinyl-L-2,6-diaminoheptanedioate:2-oxoglutarate amino-transferase" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <annotation>
@@ -64668,6 +64674,9 @@
           <speciesReference species="M_cpd00024_c0" stoichiometry="1" constant="true"/>
           <speciesReference species="M_cpd02698_c0" stoichiometry="1" constant="true"/>
         </listOfProducts>
+        <fbc:geneProductAssociation>
+          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS01650"/>
+        </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn01637_c0" sboTerm="SBO:0000176" id="R_rxn01637_c0" name="N2-Acetyl-L-ornithine:2-oxoglutarate aminotransferase" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <annotation>
@@ -64696,6 +64705,9 @@
           <speciesReference species="M_cpd00024_c0" stoichiometry="1" constant="true"/>
           <speciesReference species="M_cpd00342_c0" stoichiometry="1" constant="true"/>
         </listOfProducts>
+        <fbc:geneProductAssociation>
+          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS01650"/>
+        </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn16823_c0" sboTerm="SBO:0000176" id="R_rxn16823_c0" name="thiazole tautomerase" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <annotation>
@@ -77290,6 +77302,7 @@
       <fbc:geneProduct fbc:id="G_MASE_RS04960" fbc:name="G_MASE_RS04960" fbc:label="G_MASE_RS04960"/>
       <fbc:geneProduct fbc:id="G_MASE_RS10520" fbc:name="G_MASE_RS10520" fbc:label="G_MASE_RS10520"/>
       <fbc:geneProduct fbc:id="G_MASE_RS08175" fbc:name="G_MASE_RS08175" fbc:label="G_MASE_RS08175"/>
+      <fbc:geneProduct fbc:id="G_MASE_RS05555" fbc:name="G_MASE_RS05555" fbc:label="G_MASE_RS05555"/>
     </fbc:listOfGeneProducts>
   </model>
 </sbml>
