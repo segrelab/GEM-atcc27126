@@ -3553,25 +3553,6 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_cpd02654_c0" sboTerm="SBO:0000247" id="M_cpd02654_c0" name="4-Methyl-5--2-phosphoethyl-thiazole [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-2" fbc:chemicalFormula="C6H8NO4PS">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_cpd02654_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd02654"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchi/InChI=1S/C6H10NO4PS/c1-5-6(13-4-7-5)2-3-11-12(8,9)10/h4H,2-3H2,1H3,(H2,8,9,10)/p-2"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchikey/OCYMERZCMYJQQO-UHFFFAOYSA-L"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/4mpetz"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C04327"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM960"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:THZ-P"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </species>
       <species metaid="meta_M_cpd02894_c0" sboTerm="SBO:0000247" id="M_cpd02894_c0" name="4-Amino-2-methyl-5-diphosphomethylpyrimidine [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-2" fbc:chemicalFormula="C6H9N3O7P2">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -7507,24 +7488,6 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_cpd11836_c0" sboTerm="SBO:0000247" id="M_cpd11836_c0" name="(R)-3-Hydroxyacyl-[acyl-carrier protein] [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-1" fbc:chemicalFormula="C15H27N2O9PRS">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_cpd11836_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd11836"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/3haACP"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C01271"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM5861"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:OH-ACYL-ACP"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:3R-hydroxy-meromycolyl-ACP"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </species>
       <species metaid="meta_M_cpd00770_c0" sboTerm="SBO:0000247" id="M_cpd00770_c0" name="N-Formyl-L-glutamate [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-2" fbc:chemicalFormula="C6H7NO5">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -8350,26 +8313,6 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_cpd02120_c0" sboTerm="SBO:0000247" id="M_cpd02120_c0" name="Dihydrodipicolinate [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-2" fbc:chemicalFormula="C7H5NO4">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_cpd02120_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd02120"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchi/InChI=1S/C7H7NO4/c9-6(10)4-2-1-3-5(8-4)7(11)12/h1-2,5H,3H2,(H,9,10)(H,11,12)/p-2/t5-/m0/s1"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchikey/UWOCFOFVIBZJGH-YFKPBYRVSA-L"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/23dhdp"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C03340"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM807"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM50760"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:2-3-DIHYDRODIPICOLINATE"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </species>
       <species metaid="meta_M_cpd15309_c0" sboTerm="SBO:0000247" id="M_cpd15309_c0" name="1,2-Diacyl-sn-glycerol dihexadecanoyl [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C35H68O5">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -9027,25 +8970,6 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C00447"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1294"/>
                   <rdf:li rdf:resource="https://identifiers.org/biocyc/META:D-SEDOHEPTULOSE-1-7-P2"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </species>
-      <species metaid="meta_M_cpd00190_c0" sboTerm="SBO:0000247" id="M_cpd00190_c0" name="beta-D-Glucose [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H12O6">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_cpd00190_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd00190"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchi/InChI=1S/C6H12O6/c7-1-2-3(8)4(9)5(10)6(11)12-2/h2-11H,1H2/t2-,3-,4+,5-,6-/m1/s1"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchikey/WQZGKKKJIJFFOK-VFUOTHLCSA-N"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C00221"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM105"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:GLC"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:B-XGLC-HEX-1:5_6:A"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10086,20 +10010,6 @@
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM78210"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM650"/>
                   <rdf:li rdf:resource="https://identifiers.org/biocyc/META:ACRYLYL-COA"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </species>
-      <species metaid="meta_M_cpd15360_c0" sboTerm="SBO:0000247" id="M_cpd15360_c0" name="2-Octaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinol [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C48H74O4">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_cpd15360_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd15360"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/2omhmbl"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13041,26 +12951,6 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_cpd01914_c0" sboTerm="SBO:0000247" id="M_cpd01914_c0" name="L-Methionine S-oxide [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H11NO3S">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_cpd01914_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd01914"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchi/InChI=1S/C5H11NO3S/c1-10(9)3-2-4(6)5(7)8/h4H,2-3,6H2,1H3,(H,7,8)/t4-,10?/m0/s1"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchikey/QEFRNWWLZKMPFJ-YGVKFDHGSA-N"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/metsox_S__L"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C02989"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM2246"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:L-Methionine-sulfoxides"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:CPD0-1959"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </species>
       <species metaid="meta_M_cpd00109_c0" sboTerm="SBO:0000247" id="M_cpd00109_c0" name="Cytochrome c3+ [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="5" fbc:chemicalFormula="C42H52FeN8O6S2">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -14285,34 +14175,6 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_cpd15371_c0" sboTerm="SBO:0000247" id="M_cpd15371_c0" name="R-3-Hydroxyoctadecanoyl-acyl-carrierprotein- [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-1" fbc:chemicalFormula="C29H55N2O9PRS">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_cpd15371_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd15371"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/3hoctaACP"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </species>
-      <species metaid="meta_M_cpd15572_c0" sboTerm="SBO:0000247" id="M_cpd15572_c0" name="trans-octadec-2-enoyl-[acyl-carrier protein] [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-1" fbc:chemicalFormula="C29H53N2O8PRS">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_cpd15572_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd15572"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/toctd2eACP"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </species>
       <species metaid="meta_M_cpd00142_c0" sboTerm="SBO:0000247" id="M_cpd00142_c0" name="Acetoacetate [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-1" fbc:chemicalFormula="C4H5O3">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -14732,44 +14594,6 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_cpd15359_c0" sboTerm="SBO:0000247" id="M_cpd15359_c0" name="2-Octaprenyl-6-methoxy-1,4-benzoquinol [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C47H72O3">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_cpd15359_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd15359"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchi/InChI=1S/C47H72O3/c1-36(2)18-11-19-37(3)20-12-21-38(4)22-13-23-39(5)24-14-25-40(6)26-15-27-41(7)28-16-29-42(8)30-17-31-43(9)32-33-44-34-45(48)35-46(50-10)47(44)49/h18,20,22,24,26,28,30,32,34-35,48-49H,11-17,19,21,23,25,27,29,31,33H2,1-10H3/b37-20+,38-22+,39-24+,40-26+,41-28+,42-30+,43-32+"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchikey/CZFRMASEEPTBAQ-MYCGWMCTSA-N"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/2ombz"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/2ombzl"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM90444"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:OCTAPRENYL-METHOXY-BENZOQUINONE"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </species>
-      <species metaid="meta_M_cpd15361_c0" sboTerm="SBO:0000247" id="M_cpd15361_c0" name="2-Octaprenyl3-methyl-6-methoxy- 1,4-benzoquinol [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C48H74O3">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_cpd15361_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd15361"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchi/InChI=1S/C48H74O3/c1-36(2)19-12-20-37(3)21-13-22-38(4)23-14-24-39(5)25-15-26-40(6)27-16-28-41(7)29-17-30-42(8)31-18-32-43(9)33-34-45-44(10)46(49)35-47(51-11)48(45)50/h19,21,23,25,27,29,31,33,35,49-50H,12-18,20,22,24,26,28,30,32,34H2,1-11H3/b37-21+,38-23+,39-25+,40-27+,41-29+,42-31+,43-33+"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchikey/HDSGDGSLNMIMKU-KFSSTAEESA-N"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/2ommb"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/2ommbl"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1899"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:OCTAPRENYL-METHYL-METHOXY-BENZQ"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </species>
       <species metaid="meta_M_cpd00142_e0" sboTerm="SBO:0000247" id="M_cpd00142_e0" name="Acetoacetate [e0]" compartment="e0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-1" fbc:chemicalFormula="C4H5O3">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -15105,24 +14929,6 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_cpd14720_c0" sboTerm="SBO:0000247" id="M_cpd14720_c0" name="L-Methionine (R)-S-oxide [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C5H11NO3S">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_cpd14720_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd14720"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchi/InChI=1S/C5H11NO3S/c1-10(9)3-2-4(6)5(7)8/h4H,2-3,6H2,1H3,(H,7,8)/t4-,10+/m0/s1"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchikey/QEFRNWWLZKMPFJ-ZXPFJRLXSA-N"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C15998"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM2245"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:CPD-8990"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </species>
       <species metaid="meta_M_cpd00162_c0" sboTerm="SBO:0000247" id="M_cpd00162_c0" name="Aminoethanol [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="1" fbc:chemicalFormula="C2H8NO">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -15227,46 +15033,6 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C00817"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM2011"/>
                   <rdf:li rdf:resource="https://identifiers.org/biocyc/META:D-ALTRONATE"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </species>
-      <species metaid="meta_M_cpd03422_c0" sboTerm="SBO:0000247" id="M_cpd03422_c0" name="Cobinamide [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="3" fbc:chemicalFormula="C48H75CoN11O8">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_cpd03422_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd03422"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchi/InChI=1S/C48H73N11O8.Co/c1-23(60)22-55-38(67)16-17-45(6)29(18-35(52)64)43-48(9)47(8,21-37(54)66)28(12-15-34(51)63)40(59-48)25(3)42-46(7,20-36(53)65)26(10-13-32(49)61)30(56-42)19-31-44(4,5)27(11-14-33(50)62)39(57-31)24(2)41(45)58-43;/h19,23,26-29,43,60H,10-18,20-22H2,1-9H3,(H14,49,50,51,52,53,54,55,56,57,58,59,61,62,63,64,65,66,67);/q;+1/p-1/t23-,26-,27-,28-,29+,43-,45-,46+,47+,48+;/m1./s1"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchikey/XQRJFEVDQXEIAX-JFYQDRLCSA-M"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/cbi"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C05774"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM47455"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM90619"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1549"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:COBINAMIDE"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </species>
-      <species metaid="meta_M_cpd03918_c0" sboTerm="SBO:0000247" id="M_cpd03918_c0" name="Adenosyl cobinamide [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="4" fbc:chemicalFormula="C58H87CoN16O11">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_cpd03918_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd03918"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchi/InChI=1S/C48H73N11O8.C10H12N5O3.Co/c1-23(60)22-55-38(67)16-17-45(6)29(18-35(52)64)43-48(9)47(8,21-37(54)66)28(12-15-34(51)63)40(59-48)25(3)42-46(7,20-36(53)65)26(10-13-32(49)61)30(56-42)19-31-44(4,5)27(11-14-33(50)62)39(57-31)24(2)41(45)58-43;1-4-6(16)7(17)10(18-4)15-3-14-5-8(11)12-2-13-9(5)15;/h19,23,26-29,43,60H,10-18,20-22H2,1-9H3,(H14,49,50,51,52,53,54,55,56,57,58,59,61,62,63,64,65,66,67);2-4,6-7,10,16-17H,1H2,(H2,11,12,13);/q;;+2/p-1/t23-,26-,27-,28-,29+,43-,45-,46+,47+,48+;4-,6-,7-,10-;/m11./s1"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchikey/KQXSPGAEBZWHMC-QMUWONGRSA-M"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/adocbi"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C06508"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM90790"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:ADENOSYLCOBINAMIDE"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -16602,36 +16368,6 @@
                 <rdf:Bag>
                   <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd15672"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM9603"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </species>
-      <species metaid="meta_M_cpd12237_c0" sboTerm="SBO:0000247" id="M_cpd12237_c0" name="Peptide-L-methionine [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H10N2O2R2S">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_cpd12237_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd12237"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C03023"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM163551"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </species>
-      <species metaid="meta_M_cpd14507_c0" sboTerm="SBO:0000247" id="M_cpd14507_c0" name="Peptide-L-methionine (R)-S-oxide [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H10N2O3R2S">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_cpd14507_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd14507"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C15653"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM21320"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -19323,50 +19059,6 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_cpd28070_c0" sboTerm="SBO:0000247" id="M_cpd28070_c0" name="Reduced-Flavoproteins [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C12H11N4O2R">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_cpd28070_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd28070"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:Reduced-Flavoproteins"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </species>
-      <species metaid="meta_M_cpd33817_c0" sboTerm="SBO:0000247" id="M_cpd33817_c0" name="Cbi(II) [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="2" fbc:chemicalFormula="C48H73CoN11O8">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_cpd33817_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd33817"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchi/InChI=1S/C48H73N11O8.Co/c1-23(60)22-55-38(67)16-17-45(6)29(18-35(52)64)43-48(9)47(8,21-37(54)66)28(12-15-34(51)63)40(59-48)25(3)42-46(7,20-36(53)65)26(10-13-32(49)61)30(56-42)19-31-44(4,5)27(11-14-33(50)62)39(57-31)24(2)41(45)58-43;/h19,23,26-29,43,60H,10-18,20-22H2,1-9H3,(H14,49,50,51,52,53,54,55,56,57,58,59,61,62,63,64,65,66,67);/q;+2/p-1/t23-,26-,27-,28-,29+,43-,45-,46+,47+,48+;/m1./s1"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchikey/GFVWZOGCSKVPRA-JFYQDRLCSA-M"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:CPD-20903"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </species>
-      <species metaid="meta_M_cpd27744_c0" sboTerm="SBO:0000247" id="M_cpd27744_c0" name="Oxidized-Flavoproteins [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C12H9N4O2R">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_cpd27744_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd27744"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:Oxidized-Flavoproteins"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </species>
       <species metaid="meta_M_cpd12489_c0" sboTerm="SBO:0000247" id="M_cpd12489_c0" name="cis-3-Decenoyl-[acyl-carrier protein] [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-2" fbc:chemicalFormula="C21H37N2O8PRS">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -19463,25 +19155,6 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_cpd22312_c0" sboTerm="SBO:0000247" id="M_cpd22312_c0" name="Adenylated-ThiS-Proteins [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C14H19N7O9PR">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_cpd22312_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd22312"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM8251"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM147968"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:Adenylated-ThiS-Proteins"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:Carboxyadenylated-URM1"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:Carboxyadenylated-TtuB"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:Carboxyadenylated-CysO"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </species>
       <species metaid="meta_M_cpd21480_c0" sboTerm="SBO:0000247" id="M_cpd21480_c0" name="2-(2-Carboxy-4-methylthiazol-5-yl)ethyl phosphate [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-3" fbc:chemicalFormula="C7H7NO6PS">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -19513,26 +19186,6 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C06010"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM114079"/>
                   <rdf:li rdf:resource="https://identifiers.org/biocyc/META:2-ACETO-LACTATE"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </species>
-      <species metaid="meta_M_cpd00635_c0" sboTerm="SBO:0000247" id="M_cpd00635_c0" name="Cbl [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="2" fbc:chemicalFormula="C62H91CoN13O14P">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_cpd00635_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd00635"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchi/InChI=1S/C62H90N13O14P.Co/c1-29-20-39-40(21-30(29)2)75(28-70-39)57-52(84)53(41(27-76)87-57)89-90(85,86)88-31(3)26-69-49(83)18-19-59(8)37(22-46(66)80)56-62(11)61(10,25-48(68)82)36(14-17-45(65)79)51(74-62)33(5)55-60(9,24-47(67)81)34(12-15-43(63)77)38(71-55)23-42-58(6,7)35(13-16-44(64)78)50(72-42)32(4)54(59)73-56;/h20-21,23,28,31,34-37,41,52-53,56-57,76,84H,12-19,22,24-27H2,1-11H3,(H15,63,64,65,66,67,68,69,71,72,73,74,77,78,79,80,81,82,83,85,86);/q;+1/p-2/t31-,34-,35-,36-,37+,41-,52-,53-,56-,57+,59-,60+,61+,62+;/m1./s1"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchikey/OMAOKVYASDIYQG-DSRCUDDDSA-L"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/cbl1"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C00853"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM90163"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM91519"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:COB-I-ALAMIN"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -19590,42 +19243,6 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C15532"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM3314"/>
                   <rdf:li rdf:resource="https://identifiers.org/biocyc/META:CPD-7224"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </species>
-      <species metaid="meta_M_cpd19001_c0" sboTerm="SBO:0000247" id="M_cpd19001_c0" name="alpha-D-Glucose [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C6H12O6">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_cpd19001_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd19001"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchi/InChI=1S/C6H12O6/c7-1-2-3(8)4(9)5(10)6(11)12-2/h2-11H,1H2/t2-,3-,4+,5-,6+/m1/s1"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchikey/WQZGKKKJIJFFOK-DVKNGEFBSA-N"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C00267"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM99"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:ALPHA-GLUCOSE"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </species>
-      <species metaid="meta_M_cpd19006_c0" sboTerm="SBO:0000247" id="M_cpd19006_c0" name="alpha-D-Glucose 6-phosphate [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-2" fbc:chemicalFormula="C6H11O9P">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_cpd19006_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd19006"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchi/InChI=1S/C6H13O9P/c7-3-2(1-14-16(11,12)13)15-6(10)5(9)4(3)8/h2-10H,1H2,(H2,11,12,13)/p-2/t2-,3-,4+,5-,6+/m1/s1"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchikey/NBSCHQHZLSJFNQ-DVKNGEFBSA-L"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C00668"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM215"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:ALPHA-GLC-6-P"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -19850,26 +19467,6 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_cpd00635_e0" sboTerm="SBO:0000247" id="M_cpd00635_e0" name="Cbl [e0]" compartment="e0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="2" fbc:chemicalFormula="C62H91CoN13O14P">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_cpd00635_e0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd00635"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchi/InChI=1S/C62H90N13O14P.Co/c1-29-20-39-40(21-30(29)2)75(28-70-39)57-52(84)53(41(27-76)87-57)89-90(85,86)88-31(3)26-69-49(83)18-19-59(8)37(22-46(66)80)56-62(11)61(10,25-48(68)82)36(14-17-45(65)79)51(74-62)33(5)55-60(9,24-47(67)81)34(12-15-43(63)77)38(71-55)23-42-58(6,7)35(13-16-44(64)78)50(72-42)32(4)54(59)73-56;/h20-21,23,28,31,34-37,41,52-53,56-57,76,84H,12-19,22,24-27H2,1-11H3,(H15,63,64,65,66,67,68,69,71,72,73,74,77,78,79,80,81,82,83,85,86);/q;+1/p-2/t31-,34-,35-,36-,37+,41-,52-,53-,56-,57+,59-,60+,61+,62+;/m1./s1"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchikey/OMAOKVYASDIYQG-DSRCUDDDSA-L"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/cbl1"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C00853"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM90163"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM91519"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:COB-I-ALAMIN"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </species>
       <species metaid="meta_M_cpd11640_c0" sboTerm="SBO:0000247" id="M_cpd11640_c0" name="H2 [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="H2">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -20087,26 +19684,6 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C00315"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM124"/>
                   <rdf:li rdf:resource="https://identifiers.org/biocyc/META:SPERMIDINE"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </species>
-      <species metaid="meta_M_cpd15807_c0" sboTerm="SBO:0000247" id="M_cpd15807_c0" name="2,5-diamino-6-ribitylamino-4(3H)-pyrimidinone 5&apos;-phosphate [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-2" fbc:chemicalFormula="C9H16N5O8P">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_cpd15807_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd15807"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchi/InChI=1S/C9H18N5O8P/c10-5-7(13-9(11)14-8(5)18)12-1-3(15)6(17)4(16)2-22-23(19,20)21/h3-4,6,15-17H,1-2,10H2,(H2,19,20,21)(H4,11,12,13,14,18)/p-2/t3-,4+,6-/m0/s1"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchikey/ACIVVGBVOVHFPQ-RPDRRWSUSA-L"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/25dthpp"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C18910"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM1099"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM722877"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:CPD-10809"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -20631,21 +20208,6 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_M_cpd27713_c0" sboTerm="SBO:0000247" id="M_cpd27713_c0" name="Octanoylated-Gcv-H [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="1" fbc:chemicalFormula="C14H27N2O2R2">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_cpd27713_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd27713"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM97429"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:Octanoylated-Gcv-H"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </species>
       <species metaid="meta_M_cpd35272_c0" sboTerm="SBO:0000247" id="M_cpd35272_c0" name="2-O-sulfo-alpha,alpha-trehalose [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-1" fbc:chemicalFormula="C12H21O14S">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -20783,55 +20345,6 @@
                   <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C01013"/>
                   <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM872"/>
                   <rdf:li rdf:resource="https://identifiers.org/biocyc/META:3-HYDROXY-PROPIONATE"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </species>
-      <species metaid="meta_M_cpd28205_c0" sboTerm="SBO:0000247" id="M_cpd28205_c0" name="Sulfur-Carrier-Proteins-ThiI [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C3H5NOR2S">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_cpd28205_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd28205"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM12970"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:Sulfur-Carrier-Proteins-ThiI"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </species>
-      <species metaid="meta_M_cpd14548_c0" sboTerm="SBO:0000247" id="M_cpd14548_c0" name="C15812 [c0]" compartment="c0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C4H6N2O2S2R2">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_M_cpd14548_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd14548"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C15812"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM147933"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM147964"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM3891"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM147437"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM163766"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM163257"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM147414"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM146527"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM147960"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:TusA-Persulfides"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:SoxY-S-Thiocysteine"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:Sulfurylated-ThiI"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:TusD-Persulfides"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:TtuD-S-sulfanyl-L-cysteine"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:L-Cysteine-Desulfurase-persulfide"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:RhD-Persulfides"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:MOCS3-S-sulfanylcysteine"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:TUM1-S-sulfanylcysteine"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:ENZYME-S-SULFANYLCYSTEINE"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:DsrE-Persulfides"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -24780,38 +24293,6 @@
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_MASE_RS10085"/>
-        </fbc:geneProductAssociation>
-      </reaction>
-      <reaction metaid="meta_R_rxn02305_c0" sboTerm="SBO:0000176" id="R_rxn02305_c0" name="2-methyl-4-amino-5-hydroxymethylpyrimidine-diphosphate:4-methyl-5-(2-phosphoethyl)-thiazole 2-methyl-4-aminopyridine-5-methenyltransferase [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_rxn02305_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn02305"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/TMPPP"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/THI6_2"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R03223"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rhea/22329"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rhea/22331"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR104908"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:THI-P-SYN-RXN"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/2.5.1.3"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_cpd02654_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd02894_c0" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00012_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00793_c0" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS00475"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn08817_c0" sboTerm="SBO:0000176" id="R_rxn08817_c0" name="Lysophospholipase L2 (2-acylglycerophosphotidate, n-C12:0) [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -29602,32 +29083,6 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_rxn07981_c0" sboTerm="SBO:0000176" id="R_rxn07981_c0" name="3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C4:0) [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_rxn07981_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn07981"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/3HAD40"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR94885"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/4.2.1.58"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_cpd11836_c0" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00001_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd11465_c0" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS09675"/>
-        </fbc:geneProductAssociation>
-      </reaction>
       <reaction metaid="meta_R_rxn00375_c0" sboTerm="SBO:0000176" id="R_rxn00375_c0" name="N-Formyl-L-glutamate amidohydrolase [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -30616,37 +30071,6 @@
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_MASE_RS03355"/>
-        </fbc:geneProductAssociation>
-      </reaction>
-      <reaction metaid="meta_R_rxn01644_c0" sboTerm="SBO:0000176" id="R_rxn01644_c0" name="L-Aspartate-4-semialdehyde hydro-lyase (adding pyruvate and cyclizing) [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_rxn01644_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn01644"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/DHDPS"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R02292"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rhea/34174"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR141927"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:DIHYDRODIPICSYN-RXN"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/4.2.1.52"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_cpd00020_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00346_c0" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00001_c0" stoichiometry="2" constant="true"/>
-          <speciesReference species="M_cpd00067_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd02120_c0" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS10200"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn08297_c0" sboTerm="SBO:0000176" id="R_rxn08297_c0" name="diacylglycerol kinase (n-C16:0) [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -31896,38 +31320,6 @@
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_MASE_RS03555"/>
-        </fbc:geneProductAssociation>
-      </reaction>
-      <reaction metaid="meta_R_rxn01108_c0" sboTerm="SBO:0000176" id="R_rxn01108_c0" name="beta-D-Glucose:NAD+ 1-oxoreductase [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_rxn01108_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn01108"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R01520"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rhea/13652"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR107038"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:GLUCOSE-1-DEHYDROGENASE-RXN"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:GLUCOSE-1-DEHYDROGENASE-NAD+-RXN"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/1.1.1.118"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/1.1.1.47"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_cpd00003_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00190_c0" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00004_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00067_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00170_c0" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS07990"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn10292_c0" sboTerm="SBO:0000176" id="R_rxn10292_c0" name="isoheptadecanoyl-lipoteichoic acid synthesis (n=24), linked, unsubstituted [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -33540,38 +32932,6 @@
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_MASE_RS11570"/>
-        </fbc:geneProductAssociation>
-      </reaction>
-      <reaction metaid="meta_R_rxn08353_c0" sboTerm="SBO:0000176" id="R_rxn08353_c0" name="5-demethylubiquinone-8 methyltransferase [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_rxn08353_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn08353"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/DMQMT"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR97527"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:DHHB-METHYLTRANSFER-RXN"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/2.1.1.64"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_cpd00017_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd15360_c0" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00019_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00067_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd15561_c0" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:and>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS17745"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS10135"/>
-          </fbc:and>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn02314_c0" sboTerm="SBO:0000176" id="R_rxn02314_c0" name="ATP:D-tagatose-6-phosphate 1-phosphotransferase [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -37399,38 +36759,6 @@
           <fbc:geneProductRef fbc:geneProduct="G_MASE_RS01930"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_rxn08527_c0" sboTerm="SBO:0000176" id="R_rxn08527_c0" name="fumarate reductase [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_rxn08527_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn08527"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/FRD2"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR99637"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/1.3.99.1"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_cpd00106_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd15499_c0" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00036_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd15500_c0" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:and>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS09095"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS09090"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS09100"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS09105"/>
-          </fbc:and>
-        </fbc:geneProductAssociation>
-      </reaction>
       <reaction metaid="meta_R_rxn03253_c0" sboTerm="SBO:0000176" id="R_rxn03253_c0" name="Decanoyl-CoA:(acceptor) 2,3-oxidoreductase [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -37584,38 +36912,6 @@
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_MASE_RS06700"/>
-        </fbc:geneProductAssociation>
-      </reaction>
-      <reaction metaid="meta_R_rxn08528_c0" sboTerm="SBO:0000176" id="R_rxn08528_c0" name="fumarate reductase [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_rxn08528_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn08528"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/FRD3"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR99639"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/1.3.99.1"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_cpd00106_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd15353_c0" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00036_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd15352_c0" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:and>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS09095"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS09090"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS09100"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS09105"/>
-          </fbc:and>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn01145_c0" sboTerm="SBO:0000176" id="R_rxn01145_c0" name="Thymidylate 5&apos;-phosphohydrolase [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -39720,42 +39016,6 @@
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS07905"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS11685"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS07925"/>
-          </fbc:or>
-        </fbc:geneProductAssociation>
-      </reaction>
-      <reaction metaid="meta_R_rxn06077_c0" sboTerm="SBO:0000176" id="R_rxn06077_c0" name="L-methionine:oxidized-thioredoxin S-oxidoreductase [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_rxn06077_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn06077"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/METSR-S1"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R02025"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR101484"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/1.8.4.13"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/1.8.4.14"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_cpd00001_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00060_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd11420_c0" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd01914_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd11421_c0" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:or>
-            <fbc:and>
-              <fbc:geneProductRef fbc:geneProduct="G_MASE_RS15910"/>
-              <fbc:geneProductRef fbc:geneProduct="G_MASE_RS14425"/>
-            </fbc:and>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS09580"/>
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
@@ -42671,31 +41931,6 @@
           <fbc:geneProductRef fbc:geneProduct="G_MASE_RS04415"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_rxn07979_c0" sboTerm="SBO:0000176" id="R_rxn07979_c0" name="3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C18:0) [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_rxn07979_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn07979"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/3HAD180"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/4.2.1.61"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_cpd15371_c0" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00001_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd15572_c0" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS04445"/>
-        </fbc:geneProductAssociation>
-      </reaction>
       <reaction metaid="meta_R_rxn00993_c0" sboTerm="SBO:0000176" id="R_rxn00993_c0" name="4-fumarylacetoacetate fumarylhydrolase [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -43652,35 +42887,6 @@
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS11685"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS07925"/>
           </fbc:or>
-        </fbc:geneProductAssociation>
-      </reaction>
-      <reaction metaid="meta_R_rxn09039_c0" sboTerm="SBO:0000176" id="R_rxn09039_c0" name="2-OCTAPRENYL-METHOXY-BENZOQ-METH-RXN.c [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_rxn09039_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn09039"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/OMBZLM"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR115030"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:2-OCTAPRENYL-METHOXY-BENZOQ-METH-RXN"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/2.1.1.201"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_cpd00017_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd15359_c0" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00019_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00067_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd15361_c0" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS17020"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn05484_c0" sboTerm="SBO:0000655" id="R_rxn05484_c0" name="acetoacetate transport via proton symport [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -44979,36 +44185,6 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_rxn07439_c0" sboTerm="SBO:0000176" id="R_rxn07439_c0" name="L-methionine:thioredoxin-disulfide S-oxidoreductase [L-methionine (R)-S-oxide-forming] [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_rxn07439_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn07439"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/METSOXR2"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R07608"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rhea/21263"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR138594"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/1.8.4.14"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_cpd00001_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00060_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd11420_c0" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd11421_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd14720_c0" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS09580"/>
-        </fbc:geneProductAssociation>
-      </reaction>
       <reaction metaid="meta_R_rxn01073_c0" sboTerm="SBO:0000176" id="R_rxn01073_c0" name="sn-Glycero-3-phosphoethanolamine glycerophosphohydrolase [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -45162,44 +44338,6 @@
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS09535"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS09540"/>
           </fbc:and>
-        </fbc:geneProductAssociation>
-      </reaction>
-      <reaction metaid="meta_R_rxn02200_c0" sboTerm="SBO:0000176" id="R_rxn02200_c0" name="2-amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine:4-aminobenzoate 2-amino-4-hydroxydihydropteridine-6-methenyltransferase [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_rxn02200_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn02200"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/DHPSm"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/DHPS"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R03066"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rhea/30890"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR140386"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR139168"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:RXN-14226"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/2.5.1.15"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_cpd00443_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00954_c0" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00001_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00683_c0" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:or>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS08695"/>
-            <fbc:and>
-              <fbc:geneProductRef fbc:geneProduct="G_MASE_RS17325"/>
-              <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02955"/>
-            </fbc:and>
-          </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn01069_c0" sboTerm="SBO:0000176" id="R_rxn01069_c0" name="O-phospho-L-homoserine phosphate-lyase (adding water;L-threonine-forming) [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -45809,39 +44947,6 @@
           <fbc:geneProductRef fbc:geneProduct="G_MASE_RS11285"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_rxn05029_c0" sboTerm="SBO:0000176" id="R_rxn05029_c0" name="ATP:cobinamide Cobeta-adenosyltransferase [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_rxn05029_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn05029"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/CBIAT"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/CBIAT2"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R07268"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rhea/14728"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR134792"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR110951"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:BTUR2-RXN"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/2.5.1.17"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_cpd00002_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00067_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd03422_c0" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00421_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd03918_c0" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS07490"/>
-        </fbc:geneProductAssociation>
-      </reaction>
       <reaction metaid="meta_R_rxn00368_c0" sboTerm="SBO:0000176" id="R_rxn00368_c0" name="UTP:cytidine 5&apos;-phosphotransferase [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -46166,37 +45271,6 @@
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS16780"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS07310"/>
           </fbc:and>
-        </fbc:geneProductAssociation>
-      </reaction>
-      <reaction metaid="meta_R_rxn01109_c0" sboTerm="SBO:0000176" id="R_rxn01109_c0" name="beta-D-Glucose:NADP+ 1-oxoreductase [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_rxn01109_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn01109"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R01521"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR107039"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:GLUCOSE-1-DEHYDROGENASE-RXN"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:GLUCOSE-1-DEHYDROGENASE-NADP+-RXN"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/1.1.1.119"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/1.1.1.47"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_cpd00006_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00190_c0" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00005_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00067_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00170_c0" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS07990"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn08848_c0" sboTerm="SBO:0000176" id="R_rxn08848_c0" name="Lysophospholipase L2 (2-acylglycerophosphoglycerol, n-C16:0) [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -49120,41 +48194,6 @@
           </fbc:and>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_rxn09272_c0" sboTerm="SBO:0000176" id="R_rxn09272_c0" name="fumarate reductase complex (i.e. FRD, involved in anaerobic respiration, repressed in aerobic respiration) [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_rxn09272_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn09272"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/SUCD7"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/SUCDi"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR99641"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/1.3.5.1"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/1.3.99.1"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_cpd00036_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd15560_c0" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00106_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd15561_c0" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:and>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS09095"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS09090"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS09100"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS09105"/>
-          </fbc:and>
-        </fbc:geneProductAssociation>
-      </reaction>
       <reaction metaid="meta_R_rxn00943_c0" sboTerm="SBO:0000176" id="R_rxn00943_c0" name="Palmitoyl-CoA hydrolase [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -49889,34 +48928,6 @@
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_MASE_RS06975"/>
-        </fbc:geneProductAssociation>
-      </reaction>
-      <reaction metaid="meta_R_rxn07438_c0" sboTerm="SBO:0000176" id="R_rxn07438_c0" name="peptide-methionine:thioredoxin-disulfide S-oxidoreductase [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_rxn07438_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn07438"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R07607"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR111211"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/1.8.4.12"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_cpd00001_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd11420_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd12237_c0" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd11421_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd14507_c0" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS11120"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn00743_c0" sboTerm="SBO:0000176" id="R_rxn00743_c0" name="Glycerone phosphate phosphohydrolase [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -54645,36 +53656,6 @@
           <fbc:geneProductRef fbc:geneProduct="G_MASE_RS16245"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_rxn01171_c0" sboTerm="SBO:0000176" id="R_rxn01171_c0" name="D-glucose 1-epimerase [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_rxn01171_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn01171"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R01602"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR107082"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR134274"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:ALDOSE-1-EPIMERASE-RXN"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/5.1.3.3"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_cpd00027_c0" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00190_c0" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:and>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS00885"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS19165"/>
-          </fbc:and>
-        </fbc:geneProductAssociation>
-      </reaction>
       <reaction metaid="meta_R_rxn02288_c0" sboTerm="SBO:0000176" id="R_rxn02288_c0" name="Uroporphyrinogen-III carboxy-lyase [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -57191,35 +56172,6 @@
           <fbc:geneProductRef fbc:geneProduct="G_MASE_RS17655"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_rxn08131_c0" sboTerm="SBO:0000176" id="R_rxn08131_c0" name="4-amino-2-methyl-5-phosphomethylpyrimidine synthetase [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_rxn08131_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn08131"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/AMPMS2"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR135733"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_cpd00001_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00003_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd02140_c0" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00004_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00047_c0" stoichiometry="2" constant="true"/>
-          <speciesReference species="M_cpd00067_c0" stoichiometry="4" constant="true"/>
-          <speciesReference species="M_cpd02775_c0" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS00480"/>
-        </fbc:geneProductAssociation>
-      </reaction>
       <reaction metaid="meta_R_rxn10220_c0" sboTerm="SBO:0000176" id="R_rxn10220_c0" name="isoheptadecanoyl-phosphatidate cytidylyltransferase [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -58274,38 +57226,6 @@
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_MASE_RS06635"/>
-        </fbc:geneProductAssociation>
-      </reaction>
-      <reaction metaid="meta_R_rxn02929_c0" sboTerm="SBO:0000176" id="R_rxn02929_c0" name="2,3,4,5-Tetrahydrodipicolinate:NADP+ oxidoreductase [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_rxn02929_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn02929"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/DHDPRy"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R04199"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rhea/35334"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR142020"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR139260"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:DIHYDROPICRED-RXN"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/1.3.1.26"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_cpd00006_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd02465_c0" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00005_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00067_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd02120_c0" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS06645"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn00104_c0" sboTerm="SBO:0000176" id="R_rxn00104_c0" name="polyphosphate kinase [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -59933,37 +58853,6 @@
           </fbc:and>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_rxn42230_c0" sboTerm="SBO:0000176" id="R_rxn42230_c0" name="[c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_rxn42230_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn42230"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rhea/14726"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR96465"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:BTUR2-RXN"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/2.5.1.17"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_cpd00002_c0" stoichiometry="2" constant="true"/>
-          <speciesReference species="M_cpd28070_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd33817_c0" stoichiometry="2" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00067_c0" stoichiometry="3" constant="true"/>
-          <speciesReference species="M_cpd00421_c0" stoichiometry="2" constant="true"/>
-          <speciesReference species="M_cpd03918_c0" stoichiometry="2" constant="true"/>
-          <speciesReference species="M_cpd27744_c0" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS07490"/>
-        </fbc:geneProductAssociation>
-      </reaction>
       <reaction metaid="meta_R_rxn07455_c0" sboTerm="SBO:0000176" id="R_rxn07455_c0" name="decenoyl-[acyl-carrier-protein] delta2-trans-delta3-cis-isomerase [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -60080,39 +58969,6 @@
           <fbc:geneProductRef fbc:geneProduct="G_MASE_RS07915"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_rxn25839_c0" sboTerm="SBO:0000176" id="R_rxn25839_c0" name="ATP:[ThiS] adenylyltransferase [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_rxn25839_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn25839"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rhea/55169"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rhea/43345"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR118766"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR122993"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:RXN-18455"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:RXN-9789"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:RXN-14564"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/2.7.7.M15"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/2.7.7.73"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_cpd00002_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd28253_c0" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00012_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd22312_c0" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS00470"/>
-        </fbc:geneProductAssociation>
-      </reaction>
       <reaction metaid="meta_R_rxn23042_c0" sboTerm="SBO:0000176" id="R_rxn23042_c0" name="thiamine-phosphate diphosphorylase [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -60189,78 +59045,6 @@
           </fbc:and>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_rxn00154_c0" sboTerm="SBO:0000176" id="R_rxn00154_c0" name="pyruvate:NAD+ 2-oxidoreductase (CoA-acetylating) [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_rxn00154_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn00154"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/PDH"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/PDHm"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R00209"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rhea/28045"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR102425"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:PYRUVDEH-RXN"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/1.2.1.-"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/1.8.1.4"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/2.3.1.12"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/1.2.1.M10"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/1.2.4.1"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_cpd00003_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00010_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00020_c0" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00004_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00011_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00022_c0" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:and>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS13970"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS13980"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS13975"/>
-          </fbc:and>
-        </fbc:geneProductAssociation>
-      </reaction>
-      <reaction metaid="meta_R_rxn01084_c0" sboTerm="SBO:0000176" id="R_rxn01084_c0" name="ATP:cob(I)alamin Co-beta-adenosyltransferase [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_rxn01084_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn01084"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/CBLAT"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R01492"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rhea/28674"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR141889"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR126347"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:COBALADENOSYLTRANS-RXN"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/2.5.1.17"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_cpd00002_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00635_c0" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00166_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00421_c0" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS07490"/>
-        </fbc:geneProductAssociation>
-      </reaction>
       <reaction metaid="meta_R_rxn15395_c0" sboTerm="SBO:0000176" id="R_rxn15395_c0" name="O-Succinyl-L-homoserine succinate-lyase (adding cysteine) [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -60324,36 +59108,6 @@
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_MASE_RS14780"/>
-        </fbc:geneProductAssociation>
-      </reaction>
-      <reaction metaid="meta_R_rxn15249_c0" sboTerm="SBO:0000176" id="R_rxn15249_c0" name="ATP:alpha-D-glucose 6-phosphotransferase [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_rxn15249_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn15249"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R01786"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR100284"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:RXN-1685"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/2.7.1.2"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/2.7.1.1"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_cpd00002_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd19001_c0" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00008_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00067_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd19006_c0" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS11160"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn15466_c0" sboTerm="SBO:0000176" id="R_rxn15466_c0" name="(R)-2,3-Dihydroxy-3-methylbutanoate:NADP+ oxidoreductase (isomerizing) [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -60678,43 +59432,6 @@
           </fbc:and>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_rxn08192_c0" sboTerm="SBO:0000655" id="R_rxn08192_c0" name="ABC-5-RXN.cp [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_rxn08192_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn08192"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/CBL1abcpp"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/CBL1abc"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR96471"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR135737"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:3.6.3.33-RXN"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:ABC-5-RXN"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/3.6.3.33"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_cpd00001_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00002_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00635_e0" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00008_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00009_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00067_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00635_c0" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:and>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS06275"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS14805"/>
-          </fbc:and>
-        </fbc:geneProductAssociation>
-      </reaction>
       <reaction metaid="meta_R_rxn08173_c0" sboTerm="SBO:0000655" id="R_rxn08173_c0" name="F(1)-ATPase [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -61036,36 +59753,6 @@
           </fbc:and>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_rxn23043_c0" sboTerm="SBO:0000176" id="R_rxn23043_c0" name="thiamin phosphate synthase [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_rxn23043_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn23043"/>
-                  <rdf:li rdf:resource="https://identifiers.org/rhea/47845"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR114610"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:RXN-12611"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/2.5.1.3"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_cpd00067_c0" stoichiometry="2" constant="true"/>
-          <speciesReference species="M_cpd02894_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd21479_c0" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00011_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00012_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00793_c0" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS00475"/>
-        </fbc:geneProductAssociation>
-      </reaction>
       <reaction metaid="meta_R_rxn41896_c0" sboTerm="SBO:0000176" id="R_rxn41896_c0" name="[c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -61298,37 +59985,6 @@
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_MASE_RS14630"/>
-        </fbc:geneProductAssociation>
-      </reaction>
-      <reaction metaid="meta_R_rxn10506_c0" sboTerm="SBO:0000176" id="R_rxn10506_c0" name="2,5-diamino-6-ribitylamino-4(3H)-pyrimidinone 5&apos;-phosphate deaminase [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_rxn10506_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn10506"/>
-                  <rdf:li rdf:resource="https://identifiers.org/bigg.reaction/DRTPPD"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R09377"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR112805"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR142381"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:RXN-10058"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/3.5.4.-"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_cpd00001_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00067_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd15807_c0" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00013_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd02720_c0" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS12400"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn41452_c0" sboTerm="SBO:0000176" id="R_rxn41452_c0" name="[c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -62151,33 +60807,6 @@
           <fbc:geneProductRef fbc:geneProduct="G_MASE_RS03105"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction metaid="meta_R_rxn23336_c0" sboTerm="SBO:0000176" id="R_rxn23336_c0" name="octanoyl:GcvH transferase [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_rxn23336_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn23336"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:RXN-13037"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/2.3.1.181"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_cpd11470_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd27144_c0" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00067_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd11493_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd27713_c0" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS08595"/>
-        </fbc:geneProductAssociation>
-      </reaction>
       <reaction metaid="meta_R_rxn43470_c0" sboTerm="SBO:0000176" id="R_rxn43470_c0" name="[c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -62268,60 +60897,6 @@
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS00885"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS19165"/>
           </fbc:and>
-        </fbc:geneProductAssociation>
-      </reaction>
-      <reaction metaid="meta_R_rxn15230_c0" sboTerm="SBO:0000176" id="R_rxn15230_c0" name="Lactose galactohydrolase [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_rxn15230_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn15230"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R06098"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R01678"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR101023"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/3.2.1.23"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/3.2.1.108"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_cpd00001_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd00208_c0" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00108_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd19001_c0" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS01105"/>
-        </fbc:geneProductAssociation>
-      </reaction>
-      <reaction metaid="meta_R_rxn20583_c0" sboTerm="SBO:0000176" id="R_rxn20583_c0" name="phosphoglucose mutase [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_rxn20583_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn20583"/>
-                  <rdf:li rdf:resource="https://identifiers.org/kegg.reaction/R00959"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:PHOSPHOGLUCMUT-RXN"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ec-code/5.4.2.2"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_cpd00089_c0" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd19006_c0" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS06960"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn15467_c0" sboTerm="SBO:0000176" id="R_rxn15467_c0" name="(R)-2,3-Dihydroxy-3-methylbutanoate hydro-lyase [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -63028,35 +61603,6 @@
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02325"/>
-        </fbc:geneProductAssociation>
-      </reaction>
-      <reaction metaid="meta_R_rxn45692_c0" sboTerm="SBO:0000176" id="R_rxn45692_c0" name="cysteine:[ThiI sulfur-carrier protein]-L-cysteine sulfurtransferase desulfurase [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_rxn45692_c0">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/seed.reaction/rxn45692"/>
-                  <rdf:li rdf:resource="https://identifiers.org/metanetx.reaction/MNXR122991"/>
-                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:RXN-9787"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="M_cpd00084_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd28205_c0" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00035_c0" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_cpd14548_c0" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:and>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS12850"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS12870"/>
-          </fbc:and>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn05469_c0" sboTerm="SBO:0000655" id="R_rxn05469_c0" name="pyruvate reversible transport via proton symport [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -64138,11 +62684,6 @@
       <reaction metaid="meta_R_EX_cpd00063_e0" sboTerm="SBO:0000627" id="R_EX_cpd00063_e0" name="Exchange for Ca2+ [e0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference species="M_cpd00063_e0" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-      </reaction>
-      <reaction metaid="meta_R_EX_cpd00635_e0" sboTerm="SBO:0000627" id="R_EX_cpd00635_e0" name="Exchange for Cbl [e0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
-        <listOfReactants>
-          <speciesReference species="M_cpd00635_e0" stoichiometry="1" constant="true"/>
         </listOfReactants>
       </reaction>
       <reaction metaid="meta_R_EX_cpd00221_e0" sboTerm="SBO:0000627" id="R_EX_cpd00221_e0" name="Exchange for D-Lactate [e0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -72288,45 +70829,6 @@
           </rdf:RDF>
         </annotation>
       </fbc:geneProduct>
-      <fbc:geneProduct metaid="meta_G_MASE_RS15910" sboTerm="SBO:0000243" fbc:id="G_MASE_RS15910" fbc:name="MASE_RS15910" fbc:label="G_MASE_RS15910">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_G_MASE_RS15910">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/refseq/WP_014950741.1"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </fbc:geneProduct>
-      <fbc:geneProduct metaid="meta_G_MASE_RS14425" sboTerm="SBO:0000243" fbc:id="G_MASE_RS14425" fbc:name="MASE_RS14425" fbc:label="G_MASE_RS14425">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_G_MASE_RS14425">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/refseq/WP_014950475.1"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </fbc:geneProduct>
-      <fbc:geneProduct metaid="meta_G_MASE_RS09580" sboTerm="SBO:0000243" fbc:id="G_MASE_RS09580" fbc:name="MASE_RS09580" fbc:label="G_MASE_RS09580">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_G_MASE_RS09580">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/refseq/WP_014949540.1"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </fbc:geneProduct>
       <fbc:geneProduct metaid="meta_G_MASE_RS06570" sboTerm="SBO:0000243" fbc:id="G_MASE_RS06570" fbc:name="MASE_RS06570" fbc:label="G_MASE_RS06570">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -74609,19 +73111,6 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="https://identifiers.org/refseq/WP_014949038.1"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </fbc:geneProduct>
-      <fbc:geneProduct metaid="meta_G_MASE_RS11120" sboTerm="SBO:0000243" fbc:id="G_MASE_RS11120" fbc:name="MASE_RS11120" fbc:label="G_MASE_RS11120">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_G_MASE_RS11120">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/refseq/WP_014949842.1"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
