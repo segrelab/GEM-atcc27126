@@ -49441,7 +49441,10 @@
           <speciesReference species="M_cpd00851_c0" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS03015"/>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS03015"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS05160"/>
+          </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn01332_c0" sboTerm="SBO:0000176" id="R_rxn01332_c0" name="Phosphoenolpyruvate:D-erythrose-4-phosphate C-(1-carboxyvinyl)transferase (phosphate hydrolysing, 2-carboxy-2-oxoethyl-forming) [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -78667,6 +78670,7 @@
       <fbc:geneProduct fbc:id="G_MASE_RS02865" fbc:name="G_MASE_RS02865" fbc:label="G_MASE_RS02865"/>
       <fbc:geneProduct fbc:id="G_MASE_RS14730" fbc:name="acnD" fbc:label="G_MASE_RS14730"/>
       <fbc:geneProduct fbc:id="G_MASE_RS14735" fbc:name="prpF" fbc:label="G_MASE_RS14735"/>
+      <fbc:geneProduct fbc:id="G_MASE_RS05160" fbc:name="G_MASE_RS05160" fbc:label="G_MASE_RS05160"/>
     </fbc:listOfGeneProducts>
   </model>
 </sbml>
