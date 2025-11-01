@@ -37668,6 +37668,7 @@
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS11410"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS16405"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS09285"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS15635"/>
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
