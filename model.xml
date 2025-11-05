@@ -22924,7 +22924,10 @@
           <speciesReference species="M_cpd00540_c0" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS13390"/>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS13390"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02125"/>
+          </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn10270_c0" sboTerm="SBO:0000176" id="R_rxn10270_c0" name="isohexadecanoyl-Phosphatidylglycerophosphate phosphohydrolase [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -25241,10 +25244,10 @@
           <speciesReference species="M_cpd00971_c0" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:and>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS05710"/>
+          <fbc:or>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS08770"/>
-          </fbc:and>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS05710"/>
+          </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn08308_c0" sboTerm="SBO:0000176" id="R_rxn08308_c0" name="CDP-diacylglycerol synthetase (n-C14:1) [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -27143,7 +27146,7 @@
           <speciesReference species="M_cpd00971_c0" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS06990"/>
+          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS10880"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn00383_c0" sboTerm="SBO:0000176" id="R_rxn00383_c0" name="Sulfite:oxygen oxidoreductase [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -28500,10 +28503,10 @@
           <speciesReference species="M_cpd00067_c0" stoichiometry="2" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:and>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS13390"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02125"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS15505"/>
-          </fbc:and>
+          </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn10060_c0" sboTerm="SBO:0000176" id="R_rxn10060_c0" name="NAD kinase (dTTP) [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -30375,7 +30378,10 @@
           <speciesReference species="M_cpd00843_c0" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS09245"/>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02430"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS06555"/>
+          </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn05581_c0" sboTerm="SBO:0000655" id="R_rxn05581_c0" name="RXN0-1683.ce.maizeexp.GLYCEROL_GLYCEROL [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -34862,10 +34868,10 @@
           <speciesReference species="M_cpd00067_c0" stoichiometry="2" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:and>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS13390"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02125"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS15505"/>
-          </fbc:and>
+          </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn00904_c0" sboTerm="SBO:0000176" id="R_rxn00904_c0" name="L-Valine:pyruvate aminotransferase [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -35314,7 +35320,11 @@
           <speciesReference species="M_cpd00843_c0" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS09245"/>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02430"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS18005"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS06835"/>
+          </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn01670_c0" sboTerm="SBO:0000176" id="R_rxn01670_c0" name="Nicotinamide ribonucleotide phosphohydrolase [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -37127,7 +37137,10 @@
           <speciesReference species="M_cpd00067_c0" stoichiometry="2" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS18975"/>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS13390"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02125"/>
+          </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn08352_c0" sboTerm="SBO:0000176" id="R_rxn08352_c0" name="R08210 [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -37335,11 +37348,11 @@
           <speciesReference species="M_cpd00067_c0" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:and>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS12260"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS15565"/>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02430"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS06555"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS09235"/>
-          </fbc:and>
+          </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn05734_c0" sboTerm="SBO:0000176" id="R_rxn05734_c0" name="aldehyde dehydrogenase (glyoxylate, NAD) [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -37368,10 +37381,10 @@
           <speciesReference species="M_cpd00180_c0" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:and>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS13390"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02125"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS15505"/>
-          </fbc:and>
+          </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn00772_c0" sboTerm="SBO:0000176" id="R_rxn00772_c0" name="ATP:D-ribose 5-phosphotransferase [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -37790,10 +37803,10 @@
           <speciesReference species="M_cpd01831_c0" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:and>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS13390"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02125"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS15505"/>
-          </fbc:and>
+          </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn01515_c0" sboTerm="SBO:0000176" id="R_rxn01515_c0" name="dTTP:cytidine 5&apos;-phosphotransferase [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -38777,10 +38790,14 @@
           <fbc:or>
             <fbc:and>
               <fbc:geneProductRef fbc:geneProduct="G_MASE_RS04205"/>
-              <fbc:geneProductRef fbc:geneProduct="G_MASE_RS04190"/>
               <fbc:geneProductRef fbc:geneProduct="G_MASE_RS04195"/>
+              <fbc:geneProductRef fbc:geneProduct="G_MASE_RS04190"/>
+              <fbc:geneProductRef fbc:geneProduct="G_MASE_RS04200"/>
             </fbc:and>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS04200"/>
+            <fbc:and>
+              <fbc:geneProductRef fbc:geneProduct="G_MASE_RS18085"/>
+              <fbc:geneProductRef fbc:geneProduct="G_MASE_RS18090"/>
+            </fbc:and>
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
@@ -41523,7 +41540,6 @@
         <fbc:geneProductAssociation>
           <fbc:or>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02430"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS01350"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS06555"/>
           </fbc:or>
         </fbc:geneProductAssociation>
@@ -44296,11 +44312,10 @@
           <speciesReference species="M_cpd15561_c0" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:and>
+          <fbc:or>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS12260"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS15565"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS09235"/>
-          </fbc:and>
+          </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn01827_c0" sboTerm="SBO:0000176" id="R_rxn01827_c0" name="4-Hydroxyphenylpyruvate:oxygen oxidoreductase (hydroxylating,decarboxylating) [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -44662,7 +44677,10 @@
           <speciesReference species="M_cpd00971_c0" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS06790"/>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS06790"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS11100"/>
+          </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn01122_c0" sboTerm="SBO:0000176" id="R_rxn01122_c0" name="D-altronate hydro-lyase (2-dehydro-3-deoxy-D-gluconate-forming) [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -48877,10 +48895,7 @@
           <speciesReference species="M_cpd00281_c0" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:and>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02125"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS15505"/>
-          </fbc:and>
+          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS13390"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn05252_c0" sboTerm="SBO:0000176" id="R_rxn05252_c0" name="FACOAL170(ISO) [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -49267,11 +49282,10 @@
           <speciesReference species="M_cpd02069_c0" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:and>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS14895"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS13925"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS19525"/>
-          </fbc:and>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02430"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS06555"/>
+          </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn00355_c0" sboTerm="SBO:0000176" id="R_rxn00355_c0" name="UTP:alpha-D-galactose-1-phosphate uridylyltransferase [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -49767,10 +49781,11 @@
           <speciesReference species="M_cpd00281_c0" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:and>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS13390"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02125"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS15505"/>
-          </fbc:and>
+          </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn00507_c0" sboTerm="SBO:0000176" id="R_rxn00507_c0" name="Acetaldehyde:NADP+ oxidoreductase [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -49812,10 +49827,7 @@
           <speciesReference species="M_cpd00067_c0" stoichiometry="2" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:or>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS11390"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS15505"/>
-          </fbc:or>
+          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS13390"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn09449_c0" sboTerm="SBO:0000176" id="R_rxn09449_c0" name="acyl-coenzyme A ligase [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -50689,10 +50701,9 @@
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS15535"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02430"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS01350"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS06555"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS15535"/>
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
@@ -51184,7 +51195,6 @@
         <fbc:geneProductAssociation>
           <fbc:or>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02430"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS01350"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS06555"/>
           </fbc:or>
         </fbc:geneProductAssociation>
@@ -52199,7 +52209,11 @@
           <speciesReference species="M_cpd03105_c0" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS11390"/>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS18005"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS06835"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS11390"/>
+          </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn09012_c0" sboTerm="SBO:0000176" id="R_rxn09012_c0" name="RXN0-5074.c [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -53776,10 +53790,10 @@
           <speciesReference species="M_cpd01504_c0" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:and>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS13390"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02125"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS15505"/>
-          </fbc:and>
+          </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn03164_c0" sboTerm="SBO:0000176" id="R_rxn03164_c0" name="UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminoheptanedioate:D-alanyl-D-alanine ligase(ADP-forming) [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -54424,7 +54438,6 @@
         <fbc:geneProductAssociation>
           <fbc:or>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02430"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS01350"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS06555"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS13395"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS11855"/>
@@ -55105,7 +55118,6 @@
         <fbc:geneProductAssociation>
           <fbc:or>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02430"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS01350"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS06555"/>
           </fbc:or>
         </fbc:geneProductAssociation>
@@ -55145,12 +55157,10 @@
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS17755"/>
-            <fbc:and>
-              <fbc:geneProductRef fbc:geneProduct="G_MASE_RS17755"/>
-              <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02440"/>
-            </fbc:and>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS13390"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02125"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS15505"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02440"/>
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
@@ -55195,7 +55205,10 @@
         <fbc:geneProductAssociation>
           <fbc:and>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS15795"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS15800"/>
+            <fbc:or>
+              <fbc:geneProductRef fbc:geneProduct="G_MASE_RS15800"/>
+              <fbc:geneProductRef fbc:geneProduct="G_MASE_RS17405"/>
+            </fbc:or>
           </fbc:and>
         </fbc:geneProductAssociation>
       </reaction>
@@ -57213,10 +57226,10 @@
           <speciesReference species="M_cpd00223_c0" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:and>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS13390"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02125"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS15505"/>
-          </fbc:and>
+          </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn05289_c0" sboTerm="SBO:0000176" id="R_rxn05289_c0" name="NADPH:oxidized-thioredoxin oxidoreductase [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -59525,7 +59538,10 @@
           <speciesReference species="M_cpd00971_c0" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS11100"/>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS06790"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS11100"/>
+          </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn08234_c0" sboTerm="SBO:0000655" id="R_rxn08234_c0" name="chloride (Cl-1) transport via diffusion (extracellular to periplasm) [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -59643,10 +59659,10 @@
           <speciesReference species="M_cpd00169_c0" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:and>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS13390"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02125"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS15505"/>
-          </fbc:and>
+          </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn40368_c0" sboTerm="SBO:0000176" id="R_rxn40368_c0" name="D-galactose 1-epimerase [c0]" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -61983,7 +61999,10 @@
           <speciesReference species="M_cpd00139_c0" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS15505"/>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS13390"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02125"/>
+          </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_cpd23538_trans" sboTerm="SBO:0000185" id="R_cpd23538_trans" name="(S)-2,3-dihydroxypropane-1-sulfonate:sodium symport" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -62268,7 +62287,11 @@
           <speciesReference species="M_cpd00067_c0" stoichiometry="2" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS15505"/>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS13390"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02125"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS15505"/>
+          </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn01141_c0" sboTerm="SBO:0000176" id="R_rxn01141_c0" name="N,N-Dimethylglycine:oxygen oxidoreductase (demethylating) [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -62530,7 +62553,10 @@
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS12840"/>
+            <fbc:or>
+              <fbc:geneProductRef fbc:geneProduct="G_MASE_RS12840"/>
+              <fbc:geneProductRef fbc:geneProduct="G_MASE_RS12845"/>
+            </fbc:or>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS08590"/>
           </fbc:and>
         </fbc:geneProductAssociation>
@@ -62666,6 +62692,7 @@
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02430"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS18005"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS06835"/>
           </fbc:or>
@@ -62698,6 +62725,7 @@
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02430"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS18005"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS06835"/>
           </fbc:or>
@@ -62730,7 +62758,7 @@
           <speciesReference species="M_cpd00006_c0" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS18005"/>
+          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS06500"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn01079_c0" sboTerm="SBO:0000176" id="R_rxn01079_c0" name="L-gulonate:NADP+ 6-oxidoreductase" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -62940,8 +62968,12 @@
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS13925"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02430"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS18005"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS06835"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS09245"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS13925"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS14895"/>
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
@@ -63128,10 +63160,9 @@
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS19525"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02430"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS06555"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS09235"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS13925"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS09245"/>
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
@@ -63356,7 +63387,6 @@
         <fbc:geneProductAssociation>
           <fbc:or>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02430"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS01350"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS06555"/>
           </fbc:or>
         </fbc:geneProductAssociation>
@@ -64173,7 +64203,11 @@
           <speciesReference species="M_cpd00599_c0" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS17755"/>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS13390"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02125"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS17755"/>
+          </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn02169_c0" sboTerm="SBO:0000176" id="R_rxn02169_c0" name="Glutaconyl-1-CoA carboxy-lyase [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_default_ub" fbc:upperFluxBound="cobra_default_ub">
@@ -64228,7 +64262,10 @@
           <speciesReference species="M_cpd00714_c0" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS06555"/>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02430"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS06555"/>
+          </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn02319_c0" sboTerm="SBO:0000176" id="R_rxn02319_c0" name="ATP:L-fuculose 1-phosphotransferase [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_default_ub" fbc:upperFluxBound="cobra_default_ub">
@@ -64735,7 +64772,10 @@
           <speciesReference species="M_cpd11408_c0" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MASE_RS13390"/>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS13390"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02125"/>
+          </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="meta_R_rxn05127_c0" sboTerm="SBO:0000176" id="R_rxn05127_c0" name="4-(gamma-L-glutamylamino)butanal:NADP+ oxidoreductase [c0]" reversible="false" fast="false" fbc:lowerFluxBound="cobra_default_ub" fbc:upperFluxBound="cobra_default_ub">
@@ -64900,7 +64940,8 @@
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
-            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS13925"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS02430"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MASE_RS06555"/>
             <fbc:geneProductRef fbc:geneProduct="G_MASE_RS09235"/>
           </fbc:or>
         </fbc:geneProductAssociation>
@@ -69317,19 +69358,6 @@
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="https://identifiers.org/refseq/WP_014950183.1"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </fbc:geneProduct>
-      <fbc:geneProduct metaid="meta_G_MASE_RS06990" sboTerm="SBO:0000243" fbc:id="G_MASE_RS06990" fbc:name="MASE_RS06990" fbc:label="G_MASE_RS06990">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_G_MASE_RS06990">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/refseq/WP_014949041.1"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -78358,6 +78386,9 @@
       <fbc:geneProduct fbc:id="G_MASE_RS12845" fbc:name="G_MASE_RS12845" fbc:label="G_MASE_RS12845"/>
       <fbc:geneProduct fbc:id="G_MASE_RS17710" fbc:name="G_MASE_RS17710" fbc:label="G_MASE_RS17710"/>
       <fbc:geneProduct fbc:id="G_MASE_RS00740" fbc:name="G_MASE_RS00740" fbc:label="G_MASE_RS00740"/>
+      <fbc:geneProduct fbc:id="G_MASE_RS18090" fbc:name="G_MASE_RS18090" fbc:label="G_MASE_RS18090"/>
+      <fbc:geneProduct fbc:id="G_MASE_RS18085" fbc:name="G_MASE_RS18085" fbc:label="G_MASE_RS18085"/>
+      <fbc:geneProduct fbc:id="G_MASE_RS17405" fbc:name="G_MASE_RS17405" fbc:label="G_MASE_RS17405"/>
     </fbc:listOfGeneProducts>
   </model>
 </sbml>
